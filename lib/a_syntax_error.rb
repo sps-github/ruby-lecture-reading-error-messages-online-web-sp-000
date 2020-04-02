@@ -1,4 +1,4 @@
 x = "1"
 
 x =
-end
+end-of-input
